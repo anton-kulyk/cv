@@ -8,7 +8,7 @@ body {
 }
 
 ul {
-  margin-top: 0;
+  margin: 0 0 3px;
 }
 
 a {
@@ -66,10 +66,10 @@ img {
 
 .sidebar__title {
   display: flex;
-  background-color: #006666;
+  background-color: #103f3f;
   margin: 5px 5px;
   padding: 5px 5px;
-  color: #e3b8b8;
+  color: #fff;
   font-size: 20px;
 }
 
@@ -107,7 +107,7 @@ img {
 
 .summary__title-container {
   background-color: #336666;
-  color: #e3b8b8;
+  color: #fff;
   font-size: 14px;
   font-weight: 400;
   padding: 20px;
@@ -129,10 +129,10 @@ img {
 
 .summary__title {
   display: flex;
-  background-color: #006666;
+  background-color: #103f3f;
   padding: 5px 5px;
   font-size: 20px;
-  color: #e3b8b8;
+  color: #fff;
   width: 80%;
   padding: 5px;
   margin-top: 0;
